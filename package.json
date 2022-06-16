@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "y": "^0.3.2"
+  },
+  "name": "jest_testing_basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
